@@ -1,0 +1,26 @@
+body {
+	background-color: #FFDD10;
+	color: #292401;
+}
+
+#title {
+	text-transform: uppercase;
+}
+
+.top-margin {
+	margin-top: 40px;
+}
+
+.companies {
+	background: #efefef;
+}
+
+.company {
+	margin: 20px;
+}
+
+#footer {
+	background: #3D3D3D;
+	color: #efefef;
+	padding: 10px 20px;
+}
